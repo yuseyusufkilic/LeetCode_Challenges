@@ -1,0 +1,15 @@
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzSample.exe
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzSample.deps.json
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzSample.runtimeconfig.json
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzSample.runtimeconfig.dev.json
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzSample.dll
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\bin\Debug\net5.0\ref\FizzSample.dll
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzSample.pdb
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzSample.AssemblyInfoInputs.cache
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzSample.AssemblyInfo.cs
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzSample.csproj.CoreCompileInputs.cache
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzSample.dll
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\obj\Debug\net5.0\ref\FizzSample.dll
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzSample.pdb
+D:\C# Projects\LeetCodeExamples\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzSample.genruntimeconfig.cache

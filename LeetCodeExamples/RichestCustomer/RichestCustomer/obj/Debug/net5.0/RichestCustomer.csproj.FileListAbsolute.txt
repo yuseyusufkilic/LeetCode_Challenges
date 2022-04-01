@@ -1,0 +1,16 @@
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\obj\Debug\net5.0\RichestCustomer.csproj.AssemblyReference.cache
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\obj\Debug\net5.0\RichestCustomer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\obj\Debug\net5.0\RichestCustomer.AssemblyInfoInputs.cache
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\obj\Debug\net5.0\RichestCustomer.AssemblyInfo.cs
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\obj\Debug\net5.0\RichestCustomer.csproj.CoreCompileInputs.cache
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\bin\Debug\net5.0\RichestCustomer.exe
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\bin\Debug\net5.0\RichestCustomer.deps.json
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\bin\Debug\net5.0\RichestCustomer.runtimeconfig.json
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\bin\Debug\net5.0\RichestCustomer.runtimeconfig.dev.json
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\bin\Debug\net5.0\RichestCustomer.dll
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\bin\Debug\net5.0\ref\RichestCustomer.dll
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\bin\Debug\net5.0\RichestCustomer.pdb
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\obj\Debug\net5.0\RichestCustomer.dll
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\obj\Debug\net5.0\ref\RichestCustomer.dll
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\obj\Debug\net5.0\RichestCustomer.pdb
+D:\C# Projects\LeetCodeExamples\RichestCustomer\RichestCustomer\obj\Debug\net5.0\RichestCustomer.genruntimeconfig.cache

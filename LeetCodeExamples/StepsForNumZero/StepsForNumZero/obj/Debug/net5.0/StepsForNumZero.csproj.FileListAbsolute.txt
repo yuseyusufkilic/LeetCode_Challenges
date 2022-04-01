@@ -1,0 +1,16 @@
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\bin\Debug\net5.0\StepsForNumZero.exe
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\bin\Debug\net5.0\StepsForNumZero.deps.json
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\bin\Debug\net5.0\StepsForNumZero.runtimeconfig.json
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\bin\Debug\net5.0\StepsForNumZero.runtimeconfig.dev.json
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\bin\Debug\net5.0\StepsForNumZero.dll
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\bin\Debug\net5.0\ref\StepsForNumZero.dll
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\bin\Debug\net5.0\StepsForNumZero.pdb
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\obj\Debug\net5.0\StepsForNumZero.csproj.AssemblyReference.cache
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\obj\Debug\net5.0\StepsForNumZero.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\obj\Debug\net5.0\StepsForNumZero.AssemblyInfoInputs.cache
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\obj\Debug\net5.0\StepsForNumZero.AssemblyInfo.cs
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\obj\Debug\net5.0\StepsForNumZero.csproj.CoreCompileInputs.cache
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\obj\Debug\net5.0\StepsForNumZero.dll
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\obj\Debug\net5.0\ref\StepsForNumZero.dll
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\obj\Debug\net5.0\StepsForNumZero.pdb
+D:\C# Projects\LeetCodeExamples\StepsForNumZero\StepsForNumZero\obj\Debug\net5.0\StepsForNumZero.genruntimeconfig.cache
